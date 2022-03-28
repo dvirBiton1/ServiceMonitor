@@ -1,0 +1,280 @@
+28/03/2022~15:25:22: Agent Activation Runtime_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: Agent Activation Runtime_9591b61 Completely new Service.
+28/03/2022~15:25:22: AllJoyn Router Service Completely new Service.
+28/03/2022~15:25:22: Application Layer Gateway Service Completely new Service.
+28/03/2022~15:25:22: AMD External Events Utility Completely new Service.
+28/03/2022~15:25:22: Application Identity Completely new Service.
+28/03/2022~15:25:22: Application Information Completely new Service.
+28/03/2022~15:25:22: App Readiness Completely new Service.
+28/03/2022~15:25:22: AppX Deployment Service (AppXSVC) Completely new Service.
+28/03/2022~15:25:22: Windows Audio Endpoint Builder Completely new Service.
+28/03/2022~15:25:22: Windows Audio Completely new Service.
+28/03/2022~15:25:22: Cellular Time Completely new Service.
+28/03/2022~15:25:22: ActiveX Installer (AxInstSV) Completely new Service.
+28/03/2022~15:25:22: GameDVR and Broadcast User Service_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: GameDVR and Broadcast User Service_9591b61 Completely new Service.
+28/03/2022~15:25:22: BitLocker Drive Encryption Service Completely new Service.
+28/03/2022~15:25:22: Base Filtering Engine Completely new Service.
+28/03/2022~15:25:22: Background Intelligent Transfer Service Completely new Service.
+28/03/2022~15:25:22: ????? ?????? ??????? Bluetooth_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: ????? ?????? ??????? Bluetooth_9591b61 Completely new Service.
+28/03/2022~15:25:22: Background Tasks Infrastructure Service Completely new Service.
+28/03/2022~15:25:22: Bluetooth Audio Gateway Service Completely new Service.
+28/03/2022~15:25:22: AVCTP service Completely new Service.
+28/03/2022~15:25:22: Bluetooth Support Service Completely new Service.
+28/03/2022~15:25:22: Capability Access Manager Service Completely new Service.
+28/03/2022~15:25:22: CaptureService_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: CaptureService_9591b61 Completely new Service.
+28/03/2022~15:25:22: ????? ????? ?? ????_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: ????? ????? ?? ????_9591b61 Completely new Service.
+28/03/2022~15:25:22: Connected Devices Platform Service Completely new Service.
+28/03/2022~15:25:22: Connected Devices Platform User Service_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: Connected Devices Platform User Service_9591b61 Completely new Service.
+28/03/2022~15:25:22: Certificate Propagation Completely new Service.
+28/03/2022~15:25:22: Microsoft Office Click-to-Run Service Completely new Service.
+28/03/2022~15:25:22: Client License Service (ClipSVC) Completely new Service.
+28/03/2022~15:25:22: COM+ System Application Completely new Service.
+28/03/2022~15:25:22: ConsentUX_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: ConsentUX_9591b61 Completely new Service.
+28/03/2022~15:25:22: CoreMessaging Completely new Service.
+28/03/2022~15:25:22: CredentialEnrollmentManagerUserSvc_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: CredentialEnrollmentManagerUserSvc_9591b61 Completely new Service.
+28/03/2022~15:25:22: Cryptographic Services Completely new Service.
+28/03/2022~15:25:22: DCOM Server Process Launcher Completely new Service.
+28/03/2022~15:25:22: Optimize drives Completely new Service.
+28/03/2022~15:25:22: DeviceAssociationBroker_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: DeviceAssociationBroker_9591b61 Completely new Service.
+28/03/2022~15:25:22: Device Association Service Completely new Service.
+28/03/2022~15:25:22: Device Install Service Completely new Service.
+28/03/2022~15:25:22: DevicePicker_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: DevicePicker_9591b61 Completely new Service.
+28/03/2022~15:25:22: ??DevicesFlow_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: ??DevicesFlow_9591b61 Completely new Service.
+28/03/2022~15:25:22: DevQuery Background Discovery Broker Completely new Service.
+28/03/2022~15:25:22: DHCP Client Completely new Service.
+28/03/2022~15:25:22: Microsoft (R) Diagnostics Hub Standard Collector Service Completely new Service.
+28/03/2022~15:25:22: Diagnostic Execution Service Completely new Service.
+28/03/2022~15:25:22: Connected User Experiences and Telemetry Completely new Service.
+28/03/2022~15:25:22: Display Policy Service Completely new Service.
+28/03/2022~15:25:22: Display Enhancement Service Completely new Service.
+28/03/2022~15:25:22: Device Management Enrollment Service Completely new Service.
+28/03/2022~15:25:22: Device Management Wireless Application Protocol (WAP) Push message Routing Service Completely new Service.
+28/03/2022~15:25:22: DNS Client Completely new Service.
+28/03/2022~15:25:22: Delivery Optimization Completely new Service.
+28/03/2022~15:25:22: Wired AutoConfig Completely new Service.
+28/03/2022~15:25:22: Diagnostic Policy Service Completely new Service.
+28/03/2022~15:25:22: Device Setup Manager Completely new Service.
+28/03/2022~15:25:22: Data Sharing Service Completely new Service.
+28/03/2022~15:25:22: ??????? ??????? Completely new Service.
+28/03/2022~15:25:22: Extensible Authentication Protocol Completely new Service.
+28/03/2022~15:25:22: Microsoft Edge Update Service (edgeupdate) Completely new Service.
+28/03/2022~15:25:22: Microsoft Edge Update Service (edgeupdatem) Completely new Service.
+28/03/2022~15:25:22: Encrypting File System (EFS) Completely new Service.
+28/03/2022~15:25:22: Embedded Mode Completely new Service.
+28/03/2022~15:25:22: Enterprise App Management Service Completely new Service.
+28/03/2022~15:25:22: Windows Event Log Completely new Service.
+28/03/2022~15:25:22: COM+ Event System Completely new Service.
+28/03/2022~15:25:22: Fax Completely new Service.
+28/03/2022~15:25:22: Function Discovery Provider Host Completely new Service.
+28/03/2022~15:25:22: Function Discovery Resource Publication Completely new Service.
+28/03/2022~15:25:22: File History Service Completely new Service.
+28/03/2022~15:25:22: Windows Font Cache Service Completely new Service.
+28/03/2022~15:25:22: Windows Camera Frame Server Completely new Service.
+28/03/2022~15:25:22: Google Chrome Elevation Service (GoogleChromeElevationService) Completely new Service.
+28/03/2022~15:25:22: Group Policy Client Completely new Service.
+28/03/2022~15:25:22: GraphicsPerfSvc Completely new Service.
+28/03/2022~15:25:22: ????? ?????? Google (gupdate) Completely new Service.
+28/03/2022~15:25:22: ????? ?????? Google (gupdatem) Completely new Service.
+28/03/2022~15:25:22: Human Interface Device Service Completely new Service.
+28/03/2022~15:25:22: HV Host Service Completely new Service.
+28/03/2022~15:25:22: ??????? ????? ??? ????? ?? Windows Completely new Service.
+28/03/2022~15:25:22: IKE and AuthIP IPsec Keying Modules Completely new Service.
+28/03/2022~15:25:22: ????? ?????? ?? Microsoft Store Completely new Service.
+28/03/2022~15:25:22: IP Helper Completely new Service.
+28/03/2022~15:25:22: IP Translation Configuration Service Completely new Service.
+28/03/2022~15:25:22: CNG Key Isolation Completely new Service.
+28/03/2022~15:25:22: KtmRm for Distributed Transaction Coordinator Completely new Service.
+28/03/2022~15:25:22: Server Completely new Service.
+28/03/2022~15:25:22: Workstation Completely new Service.
+28/03/2022~15:25:22: Geolocation Service Completely new Service.
+28/03/2022~15:25:22: Windows License Manager Service Completely new Service.
+28/03/2022~15:25:22: Link-Layer Topology Discovery Mapper Completely new Service.
+28/03/2022~15:25:22: TCP/IP NetBIOS Helper Completely new Service.
+28/03/2022~15:25:22: Local Session Manager Completely new Service.
+28/03/2022~15:25:22: Language Experience Service Completely new Service.
+28/03/2022~15:25:22: LxssManager Completely new Service.
+28/03/2022~15:25:22: LxssManagerUser_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: LxssManagerUser_9591b61 Completely new Service.
+28/03/2022~15:25:22: Downloaded Maps Manager Completely new Service.
+28/03/2022~15:25:22: MessagingService_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: MessagingService_9591b61 Completely new Service.
+28/03/2022~15:25:22: Microsoft Edge Elevation Service (MicrosoftEdgeElevationService) Completely new Service.
+28/03/2022~15:25:22: Windows Mixed Reality OpenXR Service Completely new Service.
+28/03/2022~15:25:22: Windows Defender Firewall Completely new Service.
+28/03/2022~15:25:22: Distributed Transaction Coordinator Completely new Service.
+28/03/2022~15:25:22: Microsoft iSCSI Initiator Service Completely new Service.
+28/03/2022~15:25:22: Windows Installer Completely new Service.
+28/03/2022~15:25:22: Natural Authentication Completely new Service.
+28/03/2022~15:25:22: Network Connectivity Assistant Completely new Service.
+28/03/2022~15:25:22: Network Connection Broker Completely new Service.
+28/03/2022~15:25:22: Network Connected Devices Auto-Setup Completely new Service.
+28/03/2022~15:25:22: Netlogon Completely new Service.
+28/03/2022~15:25:22: Network Connections Completely new Service.
+28/03/2022~15:25:22: Network List Service Completely new Service.
+28/03/2022~15:25:22: Network Setup Service Completely new Service.
+28/03/2022~15:25:22: Net.Tcp Port Sharing Service Completely new Service.
+28/03/2022~15:25:22: Microsoft Passport Container Completely new Service.
+28/03/2022~15:25:22: Microsoft Passport Completely new Service.
+28/03/2022~15:25:22: Network Location Awareness Completely new Service.
+28/03/2022~15:25:22: Network Store Interface Service Completely new Service.
+28/03/2022~15:25:22: Sync Host_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: Sync Host_9591b61 Completely new Service.
+28/03/2022~15:25:22: Peer Networking Identity Manager Completely new Service.
+28/03/2022~15:25:22: Peer Networking Grouping Completely new Service.
+28/03/2022~15:25:22: Program Compatibility Assistant Service Completely new Service.
+28/03/2022~15:25:22: Windows Perception Simulation Service Completely new Service.
+28/03/2022~15:25:22: Performance Counter DLL Host Completely new Service.
+28/03/2022~15:25:22: Phone Service Completely new Service.
+28/03/2022~15:25:22: Contact Data_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: Contact Data_9591b61 Completely new Service.
+28/03/2022~15:25:22: Performance Logs & Alerts Completely new Service.
+28/03/2022~15:25:22: Plug and Play Completely new Service.
+28/03/2022~15:25:22: PNRP Machine Name Publication Service Completely new Service.
+28/03/2022~15:25:22: Peer Name Resolution Protocol Completely new Service.
+28/03/2022~15:25:22: IPsec Policy Agent Completely new Service.
+28/03/2022~15:25:22: Power Completely new Service.
+28/03/2022~15:25:22: Printer Extensions and Notifications Completely new Service.
+28/03/2022~15:25:22: PrintWorkflow_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: PrintWorkflow_9591b61 Completely new Service.
+28/03/2022~15:25:22: User Profile Service Completely new Service.
+28/03/2022~15:25:22: Windows PushToInstall Service Completely new Service.
+28/03/2022~15:25:22: Quality Windows Audio Video Experience Completely new Service.
+28/03/2022~15:25:22: Remote Access Auto Connection Manager Completely new Service.
+28/03/2022~15:25:22: Remote Access Connection Manager Completely new Service.
+28/03/2022~15:25:22: Routing and Remote Access Completely new Service.
+28/03/2022~15:25:22: Remote Registry Completely new Service.
+28/03/2022~15:25:22: Retail Demo Service Completely new Service.
+28/03/2022~15:25:22: Radio Management Service Completely new Service.
+28/03/2022~15:25:22: RPC Endpoint Mapper Completely new Service.
+28/03/2022~15:25:22: Remote Procedure Call (RPC) Locator Completely new Service.
+28/03/2022~15:25:22: Remote Procedure Call (RPC) Completely new Service.
+28/03/2022~15:25:22: Realtek Audio Universal Service Completely new Service.
+28/03/2022~15:25:22: Security Accounts Manager Completely new Service.
+28/03/2022~15:25:22: Smart Card Completely new Service.
+28/03/2022~15:25:22: Smart Card Device Enumeration Service Completely new Service.
+28/03/2022~15:25:22: Task Scheduler Completely new Service.
+28/03/2022~15:25:22: Smart Card Removal Policy Completely new Service.
+28/03/2022~15:25:22: Windows Backup Completely new Service.
+28/03/2022~15:25:22: Secondary Logon Completely new Service.
+28/03/2022~15:25:22: ????? ?????? ?? Windows Completely new Service.
+28/03/2022~15:25:22: Payments and NFC/SE Manager Completely new Service.
+28/03/2022~15:25:22: System Event Notification Service Completely new Service.
+28/03/2022~15:25:22: Sensor Data Service Completely new Service.
+28/03/2022~15:25:22: Sensor Service Completely new Service.
+28/03/2022~15:25:22: Sensor Monitoring Service Completely new Service.
+28/03/2022~15:25:22: Remote Desktop Configuration Completely new Service.
+28/03/2022~15:25:22: System Guard Runtime Monitor Broker Completely new Service.
+28/03/2022~15:25:22: Internet Connection Sharing (ICS) Completely new Service.
+28/03/2022~15:25:22: Spatial Data Service Completely new Service.
+28/03/2022~15:25:22: Shell Hardware Detection Completely new Service.
+28/03/2022~15:25:22: Shared PC Account Manager Completely new Service.
+28/03/2022~15:25:22: Microsoft Storage Spaces SMP Completely new Service.
+28/03/2022~15:25:22: Microsoft Windows SMS Router Service. Completely new Service.
+28/03/2022~15:25:22: ????? trap ?? SNMP Completely new Service.
+28/03/2022~15:25:22: Windows Perception Service Completely new Service.
+28/03/2022~15:25:22: Print Spooler Completely new Service.
+28/03/2022~15:25:22: Software Protection Completely new Service.
+28/03/2022~15:25:22: SSDP Discovery Completely new Service.
+28/03/2022~15:25:22: OpenSSH Authentication Agent Completely new Service.
+28/03/2022~15:25:22: Secure Socket Tunneling Protocol Service Completely new Service.
+28/03/2022~15:25:22: State Repository Service Completely new Service.
+28/03/2022~15:25:22: Windows Image Acquisition (WIA) Completely new Service.
+28/03/2022~15:25:22: Storage Service Completely new Service.
+28/03/2022~15:25:22: Spot Verifier Completely new Service.
+28/03/2022~15:25:22: Microsoft Software Shadow Copy Provider Completely new Service.
+28/03/2022~15:25:22: SysMain Completely new Service.
+28/03/2022~15:25:22: System Events Broker Completely new Service.
+28/03/2022~15:25:22: Touch Keyboard and Handwriting Panel Service Completely new Service.
+28/03/2022~15:25:22: Telephony Completely new Service.
+28/03/2022~15:25:22: Remote Desktop Services Completely new Service.
+28/03/2022~15:25:22: Themes Completely new Service.
+28/03/2022~15:25:22: Storage Tiers Management Completely new Service.
+28/03/2022~15:25:22: Time Broker Completely new Service.
+28/03/2022~15:25:22: Web Account Manager Completely new Service.
+28/03/2022~15:25:22: Distributed Link Tracking Client Completely new Service.
+28/03/2022~15:25:22: ????? ????? ????? ????? Completely new Service.
+28/03/2022~15:25:22: Windows Modules Installer Completely new Service.
+28/03/2022~15:25:22: Auto Time Zone Updater Completely new Service.
+28/03/2022~15:25:22: Udk User Service_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: Udk User Service_9591b61 Completely new Service.
+28/03/2022~15:25:22: Microsoft Update Health Service Completely new Service.
+28/03/2022~15:25:22: Remote Desktop Services UserMode Port Redirector Completely new Service.
+28/03/2022~15:25:22: User Data Storage_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: User Data Storage_9591b61 Completely new Service.
+28/03/2022~15:25:22: UPnP Device Host Completely new Service.
+28/03/2022~15:25:22: User Data Access_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: User Data Access_9591b61 Completely new Service.
+28/03/2022~15:25:22: User Manager Completely new Service.
+28/03/2022~15:25:22: Update Orchestrator Service Completely new Service.
+28/03/2022~15:25:22: Volumetric Audio Compositor Service Completely new Service.
+28/03/2022~15:25:22: Credential Manager Completely new Service.
+28/03/2022~15:25:22: VirtualBox system service Completely new Service.
+28/03/2022~15:25:22: Virtual Disk Completely new Service.
+28/03/2022~15:25:22: VMware Authorization Service Completely new Service.
+28/03/2022~15:25:22: Hyper-V Guest Service Interface Completely new Service.
+28/03/2022~15:25:22: Hyper-V Heartbeat Service Completely new Service.
+28/03/2022~15:25:22: Hyper-V Data Exchange Service Completely new Service.
+28/03/2022~15:25:22: Hyper-V Remote Desktop Virtualization Service Completely new Service.
+28/03/2022~15:25:22: Hyper-V Guest Shutdown Service Completely new Service.
+28/03/2022~15:25:22: Hyper-V Time Synchronization Service Completely new Service.
+28/03/2022~15:25:22: Hyper-V PowerShell Direct Service Completely new Service.
+28/03/2022~15:25:22: Hyper-V Volume Shadow Copy Requestor Completely new Service.
+28/03/2022~15:25:22: VMware DHCP Service Completely new Service.
+28/03/2022~15:25:22: VMware USB Arbitration Service Completely new Service.
+28/03/2022~15:25:22: VMware NAT Service Completely new Service.
+28/03/2022~15:25:22: Volume Shadow Copy Completely new Service.
+28/03/2022~15:25:22: Windows Time Completely new Service.
+28/03/2022~15:25:22: Windows Update Medic Service Completely new Service.
+28/03/2022~15:25:22: WalletService Completely new Service.
+28/03/2022~15:25:22: WarpJITSvc Completely new Service.
+28/03/2022~15:25:22: Block Level Backup Engine Service Completely new Service.
+28/03/2022~15:25:22: Windows Biometric Service Completely new Service.
+28/03/2022~15:25:22: Windows Connection Manager Completely new Service.
+28/03/2022~15:25:22: Windows Connect Now - Config Registrar Completely new Service.
+28/03/2022~15:25:22: Diagnostic Service Host Completely new Service.
+28/03/2022~15:25:22: Diagnostic System Host Completely new Service.
+28/03/2022~15:25:22: Microsoft Defender Antivirus Network Inspection Service Completely new Service.
+28/03/2022~15:25:22: WebClient Completely new Service.
+28/03/2022~15:25:22: Windows Event Collector Completely new Service.
+28/03/2022~15:25:22: Windows Encryption Provider Host Service Completely new Service.
+28/03/2022~15:25:22: Problem Reports Control Panel Support Completely new Service.
+28/03/2022~15:25:22: Windows Error Reporting Service Completely new Service.
+28/03/2022~15:25:22: Wi-Fi Direct Services Connection Manager Service Completely new Service.
+28/03/2022~15:25:22: Still Image Acquisition Events Completely new Service.
+28/03/2022~15:25:22: Microsoft Defender Antivirus Service Completely new Service.
+28/03/2022~15:25:22: WinHTTP Web Proxy Auto-Discovery Service Completely new Service.
+28/03/2022~15:25:22: Windows Management Instrumentation Completely new Service.
+28/03/2022~15:25:22: Windows Remote Management (WS-Management) Completely new Service.
+28/03/2022~15:25:22: ???????? ??????? Windows Insider Completely new Service.
+28/03/2022~15:25:22: WLAN AutoConfig Completely new Service.
+28/03/2022~15:25:22: Microsoft Account Sign-in Assistant Completely new Service.
+28/03/2022~15:25:22: Local Profile Assistant Service Completely new Service.
+28/03/2022~15:25:22: Windows Management Service Completely new Service.
+28/03/2022~15:25:22: WMI Performance Adapter Completely new Service.
+28/03/2022~15:25:22: Work Folders Completely new Service.
+28/03/2022~15:25:22: ???? ????? Completely new Service.
+28/03/2022~15:25:22: Portable Device Enumerator Service Completely new Service.
+28/03/2022~15:25:22: Windows Push Notifications System Service Completely new Service.
+28/03/2022~15:25:22: Windows Push Notifications User Service_2bf4e92 Completely new Service.
+28/03/2022~15:25:22: Windows Push Notifications User Service_9591b61 Completely new Service.
+28/03/2022~15:25:22: Security Center Completely new Service.
+28/03/2022~15:25:22: Windows Search Completely new Service.
+28/03/2022~15:25:22: Windows Update Completely new Service.
+28/03/2022~15:25:22: WWAN AutoConfig Completely new Service.
+28/03/2022~15:25:22: ???? ?????? ?? Xbox Live Completely new Service.
+28/03/2022~15:25:22: ????? ???? ?? Xbox Live Completely new Service.
+28/03/2022~15:25:22: Xbox Accessory Management Service Completely new Service.
+28/03/2022~15:25:22: ????? ????? ???? ?? Xbox Live Completely new Service.
+
+28/03/2022~15:26:23: Windows Error Reporting Service Stopped running but still exist.
+
